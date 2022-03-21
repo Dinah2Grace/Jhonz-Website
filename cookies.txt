@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+belledenavy.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+belledenavy.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_043274639cbb4b71b49c6167c12d8ae3	8e94ce15d9a55a707a4909d13d0773ad%7C%7C1646294348%7C%7C1646290748%7C%7C0a4fa8239d692703a0291d5f8a2f4b94
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0akudcwwrgvobvPI2..BiHdJ4...1.0.BiHdJ4.
+belledenavy.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	20c61e521a0af8530db3ee8dc7a0dd8d
+belledenavy.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	5943%7C5972%7C5973%7C4751%7C6074%7C4847%7C5970%7C5950%7C6077%7C6039%7C6001%7C5997%7C5994%7C5078%7C6038
+
